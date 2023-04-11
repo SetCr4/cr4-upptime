@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cr4.live
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/SetCr4/cr4-upptime/master/assets/Status.png
   name: Cr4 Statuspage
   introTitle: "Statuspage for Cr4's services. Made by **Upptime**, powered entirely by GitHub."
   introMessage: Here you can see if any service is currently down, why they are down and if there was a maintenance scheduled prior to the downtime. Check the discord for further updates and news.
