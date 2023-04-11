@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cr4.live.ico",
     "slug": "mainpage",
     "status": "down",
-    "uptime": "0.80%",
-    "uptimeDay": "0.80%",
-    "uptimeWeek": "0.80%",
-    "uptimeMonth": "0.80%",
-    "uptimeYear": "0.80%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-11": 63
+      "2023-04-11": 590
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sys.pi.cr4.live.ico",
     "slug": "selfhosted-pi",
     "status": "up",
-    "uptime": "85.70%",
-    "uptimeDay": "85.70%",
-    "uptimeWeek": "85.70%",
-    "uptimeMonth": "85.70%",
-    "uptimeYear": "85.70%",
-    "time": 708,
-    "timeDay": 708,
-    "timeWeek": 708,
-    "timeMonth": 708,
-    "timeYear": 708,
-    "dailyMinutesDown": {
-      "2023-04-11": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 647,
+    "timeDay": 647,
+    "timeWeek": 647,
+    "timeMonth": 647,
+    "timeYear": 647,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HypeParty",
@@ -45,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hypeparty.cr4.live.ico",
     "slug": "hype-party",
     "status": "down",
-    "uptime": "0.81%",
-    "uptimeDay": "0.81%",
-    "uptimeWeek": "0.81%",
-    "uptimeMonth": "0.81%",
-    "uptimeYear": "0.81%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-11": 63
+      "2023-04-11": 590
     }
   }
 ]
