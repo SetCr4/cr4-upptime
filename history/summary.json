@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-12": 17,
+      "2023-04-12": 32,
       "2023-04-11": 795
     }
   },
@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sys.pi.cr4.live.ico",
     "slug": "selfhosted-pi",
     "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
+    "uptime": "98.97%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "98.97%",
     "time": 665,
     "timeDay": 665,
     "timeWeek": 665,
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-12": 17,
+      "2023-04-12": 32,
       "2023-04-11": 795
     }
   }
