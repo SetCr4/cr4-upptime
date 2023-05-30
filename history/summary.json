@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server-hs-vm",
     "status": "up",
-    "uptime": "91.83%",
+    "uptime": "91.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "91.83%",
+    "uptimeYear": "91.92%",
     "time": 166,
     "timeDay": 147,
     "timeWeek": 167,
@@ -67,17 +67,19 @@
     "url": "https://hypeparty.cr4.live",
     "icon": "https://icons.duckduckgo.com/ip3/hypeparty.cr4.live.ico",
     "slug": "hype-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 654,
-    "timeWeek": 814,
-    "timeMonth": 836,
-    "timeYear": 849,
-    "dailyMinutesDown": {}
+    "time": 846,
+    "timeDay": 660,
+    "timeWeek": 799,
+    "timeMonth": 832,
+    "timeYear": 846,
+    "dailyMinutesDown": {
+      "2023-05-30": 0
+    }
   }
 ]
