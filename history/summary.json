@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-server-raspi",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 174,
     "timeDay": 174,
     "timeWeek": 177,
@@ -60,9 +60,9 @@
     "url": "https://hypeparty.cr4.live",
     "icon": "https://icons.duckduckgo.com/ip3/hypeparty.cr4.live.ico",
     "slug": "hype-party",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "92.33%",
+    "uptimeDay": "92.32%",
     "uptimeWeek": "98.06%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.74%",
@@ -72,6 +72,7 @@
     "timeMonth": 819,
     "timeYear": 837,
     "dailyMinutesDown": {
+      "2023-06-02": 0,
       "2023-06-01": 110,
       "2023-05-30": 85
     }
@@ -81,17 +82,19 @@
     "url": "https://api.cr4.live",
     "icon": "https://icons.duckduckgo.com/ip3/api.cr4.live.ico",
     "slug": "role-updater",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 806,
     "timeDay": 806,
     "timeWeek": 806,
     "timeMonth": 806,
     "timeYear": 806,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-02": 0
+    }
   }
 ]
