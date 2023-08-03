@@ -1,7 +1,7 @@
 url: https://hypeparty.net
-status: up
-code: 200
-responseTime: 835
-lastUpdated: 2023-08-02T23:15:32.172Z
+status: down
+code: 502
+responseTime: 820
+lastUpdated: 2023-08-03T21:55:19.622Z
 startTime: Tue Apr 11 2023 10:44:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
