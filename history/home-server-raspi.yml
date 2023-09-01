@@ -1,7 +1,7 @@
 url: pi.cr4.live
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-01T09:37:33.955Z
+status: up
+code: 200
+responseTime: 139
+lastUpdated: 2023-09-01T09:41:42.927Z
 startTime: 2023-04-13T14:34:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
