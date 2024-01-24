@@ -1,7 +1,7 @@
 url: https://api.cr4.live
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-24T23:17:21.050Z
+status: up
+code: 200
+responseTime: 1016
+lastUpdated: 2024-01-24T23:50:18.578Z
 startTime: 2023-06-01T23:15:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
