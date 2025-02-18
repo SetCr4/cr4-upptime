@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 141,
-    "timeWeek": 130,
+    "timeDay": 93,
+    "timeWeek": 123,
     "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.65%",
     "time": 134,
-    "timeDay": 148,
-    "timeWeek": 137,
+    "timeDay": 99,
+    "timeWeek": 130,
     "timeMonth": 124,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -69,14 +69,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moepi-v-server",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 141,
-    "timeWeek": 130,
+    "timeDay": 93,
+    "timeWeek": 123,
     "timeMonth": 117,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 773,
-    "timeDay": 970,
-    "timeWeek": 879,
-    "timeMonth": 796,
-    "timeYear": 778,
+    "time": 772,
+    "timeDay": 623,
+    "timeWeek": 832,
+    "timeMonth": 793,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2024-07-27": 291
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 3277,
-    "timeWeek": 1218,
-    "timeMonth": 922,
-    "timeYear": 861,
+    "time": 847,
+    "timeDay": 750,
+    "timeWeek": 1191,
+    "timeMonth": 921,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2024-11-19": 13
     }
