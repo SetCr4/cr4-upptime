@@ -15,8 +15,8 @@ sites:
     check: "tcp-ping"
     url: 157.90.112.60
     port: 22
-  - name: HypeParty
-    url: https://hypeparty.net
+#  - name: HypeParty
+#    url: https://hypeparty.net
   - name: RoleUpdater
     url: https://api.cr4.live
 
