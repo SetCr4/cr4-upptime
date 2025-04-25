@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 97,
-    "timeWeek": 94,
-    "timeMonth": 110,
+    "timeDay": 162,
+    "timeWeek": 104,
+    "timeMonth": 112,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-server-raspi",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.25%",
+    "uptimeYear": "98.53%",
     "time": 127,
-    "timeDay": 104,
-    "timeWeek": 102,
-    "timeMonth": 118,
+    "timeDay": 168,
+    "timeWeek": 111,
+    "timeMonth": 120,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2024-12-20": 48,
@@ -42,8 +42,7 @@
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
-      "2024-04-26": 1440,
-      "2024-04-25": 1440
+      "2024-04-26": 1440
     }
   },
   {
@@ -58,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 97,
-    "timeWeek": 94,
-    "timeMonth": 110,
-    "timeYear": 116,
+    "timeDay": 162,
+    "timeWeek": 104,
+    "timeMonth": 112,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   },
   {
@@ -75,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 735,
-    "timeWeek": 740,
-    "timeMonth": 828,
-    "timeYear": 864,
+    "time": 855,
+    "timeDay": 1064,
+    "timeWeek": 774,
+    "timeMonth": 840,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2024-11-19": 13
     }
