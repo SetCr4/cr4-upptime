@@ -7,10 +7,10 @@ sites:
     check: "tcp-ping"
     url: 89.58.57.232
     port: 35022
-  - name: Home Server (Raspi)
-    check: "tcp-ping"
-    url: pi.cr4.live
-    port: 42069
+#  - name: Home Server
+#    check: "tcp-ping"
+#    url: pi.cr4.live
+#    port: 42069
   - name: Moepi vServer
     check: "tcp-ping"
     url: 157.90.112.60
