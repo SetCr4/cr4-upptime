@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 93,
-    "timeWeek": 117,
+    "timeDay": 96,
+    "timeWeek": 115,
     "timeMonth": 124,
     "timeYear": 118,
     "dailyMinutesDown": {}
@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moepi-v-server",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 93,
-    "timeWeek": 117,
+    "timeDay": 96,
+    "timeWeek": 115,
     "timeMonth": 124,
     "timeYear": 117,
     "dailyMinutesDown": {}
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 863,
-    "timeDay": 661,
-    "timeWeek": 885,
-    "timeMonth": 974,
-    "timeYear": 875,
+    "timeDay": 678,
+    "timeWeek": 865,
+    "timeMonth": 972,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2024-11-19": 13
     }
