@@ -40,9 +40,9 @@
     "url": "https://api.cr4.live",
     "icon": "https://icons.duckduckgo.com/ip3/api.cr4.live.ico",
     "slug": "role-updater",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 880,
     "timeYear": 875,
     "dailyMinutesDown": {
+      "2025-06-20": 0,
       "2024-11-19": 13
     }
   }
