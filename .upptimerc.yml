@@ -17,7 +17,6 @@ sites:
     port: 22
   - name: HypeParty
     url: https://hypeparty.net/api/healthcheck?basic=true
-    __dangerous__body_degraded_if_text_missing: 'HypeParty is running'
   - name: RoleUpdater
     url: https://api.cr4.live
 
