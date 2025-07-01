@@ -4,10 +4,10 @@
     "url": "89.58.57.232",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
@@ -15,7 +15,9 @@
     "timeWeek": 117,
     "timeMonth": 118,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 1
+    }
   },
   {
     "name": "Home Server",
@@ -59,17 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hypeparty.net.ico",
     "slug": "hype-party",
     "status": "up",
-    "uptime": "84.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "95.28%",
-    "time": 782,
+    "uptime": "86.55%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "95.81%",
+    "time": 783,
     "timeDay": 1105,
     "timeWeek": 826,
     "timeMonth": 826,
-    "timeYear": 787,
+    "timeYear": 788,
     "dailyMinutesDown": {
+      "2025-07-01": 1,
       "2024-07-27": 291
     }
   },
@@ -78,9 +81,9 @@
     "url": "https://api.cr4.live",
     "icon": "https://icons.duckduckgo.com/ip3/api.cr4.live.ico",
     "slug": "role-updater",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.27%",
     "uptimeYear": "99.27%",
@@ -90,6 +93,7 @@
     "timeMonth": 894,
     "timeYear": 876,
     "dailyMinutesDown": {
+      "2025-07-01": 0,
       "2025-06-22": 997,
       "2025-06-21": 1440,
       "2025-06-20": 1386,
