@@ -24,11 +24,11 @@
     "url": "h.cr4.live",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 102,
@@ -36,7 +36,7 @@
     "timeMonth": 137,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 5
     }
   },
   {
