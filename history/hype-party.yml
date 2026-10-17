@@ -1,7 +1,7 @@
 url: https://hypeparty.net/api/healthcheck?basic=true
 status: up
 code: 200
-responseTime: 909
-lastUpdated: 2026-10-16T01:04:56.407Z
+responseTime: 897
+lastUpdated: 2026-10-17T01:11:16.855Z
 startTime: 2025-06-26T18:19:50.332Z
 generator: Upptime <https://github.com/upptime/upptime>
