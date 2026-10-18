@@ -65,19 +65,20 @@
     "url": "https://hypeparty.net/api/healthcheck?basic=true",
     "icon": "https://icons.duckduckgo.com/ip3/hypeparty.net.ico",
     "slug": "hype-party",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 866,
-    "timeDay": 702,
-    "timeWeek": 842,
-    "timeMonth": 877,
-    "timeYear": 869,
+    "timeDay": 630,
+    "timeWeek": 807,
+    "timeMonth": 867,
+    "timeYear": 868,
     "dailyMinutesDown": {
-      "2025-10-26": 25
+      "2025-10-26": 25,
+      "2026-10-18": 0
     }
   },
   {
